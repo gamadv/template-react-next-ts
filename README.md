@@ -1,5 +1,5 @@
 <h1 align=center>
-  <img src="/favicon.icon" width=70 height=70 />
+  <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width=35 height=35 />
   Next JS Template With TypeScript  
 </h1>
 
