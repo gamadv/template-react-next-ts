@@ -18,13 +18,12 @@
 <h4 align=center>
   <a href="#notebook-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#hammer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#black_nib-getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#hammer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#black_nib-getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;
 </h4>
 
 # :notebook: About
 
-Template Writed on Vite JS with Typescript
+Template Writed on Create Next App with Typescript
 
 # :hammer: Technologies
 
