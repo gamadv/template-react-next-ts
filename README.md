@@ -1,6 +1,6 @@
 <h1 align=center>
   <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width=35 height=35 />
-  Next JS Template With TypeScript  
+  PWA Next JS Template With TypeScript  
 </h1>
 
 <div align="center" style="margin-top: 30px;">  
@@ -13,6 +13,12 @@
      <a href="https://www.typescriptlang.org/" target="_blank"  rel="noopener noreferrer" >
         <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
     </a>&nbsp;&nbsp;
+     <a href="https://www.npmjs.com/package/sass" target="_blank"  rel="noopener noreferrer" >
+        <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" height="25"/>
+    </a>&nbsp;&nbsp;
+     <a href="https://www.npmjs.com/package/@testing-library/react" target="_blank"  rel="noopener noreferrer" >
+        <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" height="25"/>
+    </a>&nbsp;&nbsp;
 </div>
 
 <h4 align=center>
@@ -23,7 +29,7 @@
 
 # :notebook: About
 
-Template Writed on Create Next App with Typescript
+Template Writed on Create Next App with Typescript as a PWA
 
 # :hammer: Technologies
 
@@ -32,6 +38,10 @@ Template Writed on Create Next App with Typescript
 - [x] <b>[React Js](https://reactjs.org/):</b> <i>JS Lib to build interface</i>
 - [x] <b>[Typescript](https://www.typescriptlang.org/):</b> <i>It's written in TypeScript</i>
 - [x] <b>[Next Js](https://nextjs.org/docs/getting-started):</b> <i>Project creation tool </i>
+- [x] <b>[Next PWA](https://www.npmjs.com/package/next-pwa):</b> <i>Zero Config PWA Plugin for Next.js</i>
+- [x] <b>[Axios](https://www.npmjs.com/package/axios):</b> <i>Promise based HTTP client for the browser and node.js </i>
+- [x] <b>[SASS](https://www.npmjs.com/package/sass):</b> <i>Sass is the most mature, stable, and powerful professional grade CSS extension language in the world. </i>
+- [x] <b>[Testing Library](https://www.npmjs.com/package/@testing-library/react):</b> <i>Powerful Testing Library</i>
 
 # :black_nib: Getting Started
 
@@ -63,7 +73,6 @@ Downloading dependencies:
 ```
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
